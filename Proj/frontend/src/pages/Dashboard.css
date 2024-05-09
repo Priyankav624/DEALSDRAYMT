@@ -1,0 +1,12 @@
+.wel{
+    display: flex;
+    margin-top: 400px;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.dashboard{
+    font-size: 20px;
+    margin-top: 10px;
+}
